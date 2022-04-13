@@ -13,7 +13,9 @@ Running: npx semantic-release --ci true
 
 perf(pencil): remove graphiteWidth option 1.0.3 - 1.0.4
 perf(pencil): remove graphiteWidth option
-feat(pencil): add 'graphiteWidth' option
+feat(pencil): add 'graphiteWidth' option   1.0.4  - 1.1.0
+fix(pencil): add 'graphiteWidth' option
+
 
 fix(pencil): stop graphite breaking when too much pressure applied
 build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
@@ -24,6 +26,7 @@ fix: A bug fix
 perf: A code change that improves performance
 refactor: A code change that neither fixes a bug nor adds a feature
 test: Adding missing tests or correcting existing tests
+
 asd
 asdasdasdasd
 asdasd
