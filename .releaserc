@@ -8,7 +8,10 @@
           {"type": "refactor", "scope": "core-*", "release": "minor"},
           {"type": "refactor", "release": "patch"},
           {"scope": "no-release", "release": false}
-        ]
+        ],
+        "parserOpts": {
+            "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "Breaking change"]
+          }
       }],
         "@semantic-release/release-notes-generator" 
     ],
