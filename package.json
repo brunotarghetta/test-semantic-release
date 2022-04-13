@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brunotarghetta/test-semantic-release/issues"
   },
-  "homepage": "https://github.com/brunotarghetta/test-semantic-release#readme"
+  "homepage": "https://github.com/brunotarghetta/test-semantic-release#readme",
+  "devDependencies": {
+    "@semantic-release/release-notes-generator": "^10.0.3"
+  }
 }
