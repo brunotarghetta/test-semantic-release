@@ -17,6 +17,7 @@ feat(pencil): add 'graphiteWidth' option   1.0.4  - 1.1.0
 fix(pencil): add 'graphiteWidth' option  1.1.0  1.1.1 sd
 
 
+
 ci(pencil): add 'graphiteWidth' nada
 docs(pencil): add 'graphiteWidth' nada
 
