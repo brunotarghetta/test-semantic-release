@@ -1,6 +1,6 @@
 {
   "branches": ["main"],
-  "plugins": [
+  "plugins": [ 
     ["@semantic-release/commit-analyzer", {
         "preset": "angular",
         "releaseRules": [
