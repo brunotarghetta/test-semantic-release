@@ -9,7 +9,7 @@ asd
 
 porque
 Running: npx semantic-release --ci true
-asd
+asd asd
 
 perf(pencil): remove graphiteWidth option 1.0.3 - 1.0.4 as
 perf(pencil): remove graphiteWidth option
