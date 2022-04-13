@@ -9,7 +9,7 @@ asd
 
 porque
 Running: npx semantic-release --ci true
-
+asd
 
 perf(pencil): remove graphiteWidth option 1.0.3 - 1.0.4 as
 perf(pencil): remove graphiteWidth option
@@ -17,7 +17,7 @@ feat(pencil): add 'graphiteWidth' option   1.0.4  - 1.1.0
 fix(pencil): add 'graphiteWidth' option  1.1.0  1.1.1 sd
 
 ci(pencil): add 'graphiteWidth' nada
-docs(pencil): add 'graphiteWidth'
+docs(pencil): add 'graphiteWidth' nada
 
 fix(pencil): stop graphite breaking when too much pressure applied
 build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
