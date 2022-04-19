@@ -29,7 +29,7 @@ ci: Changes to our CI configuration files and scripts (examples: CircleCi, Sauce
 docs: Documentation only changes
 feat: A new feature s dd
 fix: A bug fixd
-perf: A code change that improves performance
+perf: A code change that improves performance d
 refactor: A code change that neither fixes a bug nor adds a feature
 test: Adding missing tests or correcting existing tests
 
