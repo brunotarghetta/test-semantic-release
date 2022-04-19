@@ -1,3 +1,10 @@
+# [8.2.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.1.0...v8.2.0) (2022-04-19)
+
+
+### Performance Improvements
+
+* A code change that improves performance d ([7e44cce](https://github.com/brunotarghetta/test-semantic-release/commit/7e44ccef9e780e7fa17086cc2ab074af54739252))
+
 # [8.1.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.0.0...v8.1.0) (2022-04-19)
 
 
