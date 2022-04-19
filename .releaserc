@@ -22,7 +22,8 @@
       }],
     ["@semantic-release/release-notes-generator" ,{
         "preset": "angular"
-    }]
+    }],
+    "@semantic-release/changelog"
     ],
    "dryRun": true,
    "ci": true
