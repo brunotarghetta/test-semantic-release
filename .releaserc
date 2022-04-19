@@ -20,10 +20,10 @@
             "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "Breaking change"]
           }
       }],
-        ["@semantic-release/release-notes-generator" ,{
-            "preset": "angular"
-        }]
+    ["@semantic-release/release-notes-generator" ,{
+        "preset": "angular"
+    }]
     ],
-   "dryRun": false,
+   "dryRun": true,
    "ci": true
 } 
