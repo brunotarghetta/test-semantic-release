@@ -11,14 +11,18 @@
           {"type": "perf", "release": "minor"},
           {"type": "docs", "release": "patch"},
           {"type": "test", "release": "patch"},
-          {"type": "refactor", "release": "patch"}
+          {"type": "refactor", "release": "patch"},
+          {"type": "ci", "release": "patch"},
+          {"type": "build", "release": "patch"}
           
         ],
         "parserOpts": {
             "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "Breaking change"]
           }
       }],
-        "@semantic-release/release-notes-generator" 
+        ["@semantic-release/release-notes-generator" ,{
+            "preset": "angular"
+        }]
     ],
    "dryRun": false,
    "ci": true
