@@ -61,3 +61,8 @@ Commits with scope no-release will not be associated with a release type even if
 
 https://github.com/semantic-release/commit-analyzer/blob/master/lib/default-release-types.js
 https://github.com/semantic-release/commit-analyzer/blob/master/lib/default-release-rules.js
+
+
+,
+   "dryRun": true,
+   "ci": true
