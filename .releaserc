@@ -4,11 +4,15 @@
     ["@semantic-release/commit-analyzer", {
         
         "releaseRules": [
-          {"type": "docs", "scope": "README", "release": "patch"},
-          {"type": "refactor", "scope": "core-*", "release": "minor"},
-          {"type": "refactor", "release": "patch"},
-          {"type": "bruno", "release": "major"},
-          {"scope": "no-release", "release": false}
+          {"type": "feat-bc", "release": "major"},
+          {"type": "no-release", "release": false},
+          {"type": "feat", "release": "minor"},
+          {"type": "fix", "release": "minor"},
+          {"type": "perf", "release": "minor"},
+          {"type": "docs", "release": "patch"},
+          {"type": "test", "release": "patch"},
+          {"type": "refactor", "release": "patch"}
+          
         ],
         "parserOpts": {
             "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "Breaking change"]
