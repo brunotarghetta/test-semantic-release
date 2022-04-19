@@ -1,3 +1,10 @@
+# [8.3.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.2.0...v8.3.0) (2022-04-19)
+
+
+### Features
+
+* A new feature s ([9fdf2d9](https://github.com/brunotarghetta/test-semantic-release/commit/9fdf2d95ea8c52b63fd68a6778cbfdea004de979))
+
 # [8.2.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.1.0...v8.2.0) (2022-04-19)
 
 
