@@ -28,7 +28,7 @@ build: Changes that affect the build system or external dependencies (example sc
 ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
 docs: Documentation only changes
 feat: A new feature s 
-fix: A bug fixd
+fix: A bug fixdsasasas
 perf: A code change that improves performance d
 refactor: A code change that neither fixes a bug nor adds a feature
 test: Adding missing tests or correcting existing tests
