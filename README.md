@@ -66,3 +66,6 @@ https://github.com/semantic-release/commit-analyzer/blob/master/lib/default-rele
 ,
    "dryRun": true,
    "ci": true
+
+
+npx semantic-release --dry-run --no-ci
