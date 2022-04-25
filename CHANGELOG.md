@@ -1,3 +1,10 @@
+# [8.7.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.6.0...v8.7.0) (2022-04-25)
+
+
+### Bug Fixes
+
+* A bug fixdsasasas ([7e37ffd](https://github.com/brunotarghetta/test-semantic-release/commit/7e37ffd6cb7bd21b6d585181648ae799d424712e))
+
 # [8.6.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.5.0...v8.6.0) (2022-04-25)
 
 
