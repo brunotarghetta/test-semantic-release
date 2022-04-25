@@ -69,3 +69,6 @@ https://github.com/semantic-release/commit-analyzer/blob/master/lib/default-rele
 
 
 npx semantic-release --dry-run --no-ci
+
+
+Para las notes: https://hub.docker.com/r/griefed/gitlab-semantic-release
