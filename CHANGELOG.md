@@ -1,3 +1,32 @@
+## [8.10.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.9.1...v8.10.0) (2022-04-26)
+
+
+### 📔 Docs
+
+* **pencil:** add 'graphiteWidth' nada ([0dc571d](https://github.com/brunotarghetta/test-semantic-release/commit/0dc571d443ec0471a9d808c938cdcf59adb3f719))
+
+
+### ⏩ Performance
+
+* **pencil:** remove graphiteWidth option ([4e66424](https://github.com/brunotarghetta/test-semantic-release/commit/4e6642484f11e4aaa2b042251c58e0eed74d113f))
+* **pencil:** remove graphiteWidth option 1.0.3 - 1.0.4 as ([1d4158f](https://github.com/brunotarghetta/test-semantic-release/commit/1d4158fb9379196e2525aa8c49aa47883775d3f4))
+
+
+### 🦊 CI/CD
+
+* Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm) ([227a95e](https://github.com/brunotarghetta/test-semantic-release/commit/227a95edc085f31ffda05bffa0ae3e0245dcf0f8))
+* Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs) ([bf0c8b1](https://github.com/brunotarghetta/test-semantic-release/commit/bf0c8b152589ab31cdb59f6cc8bab7f0ce53901d))
+
+
+### 🛠 Fixes
+
+* **pencil:** stop graphite breaking when too much pressure applied ([d452cfc](https://github.com/brunotarghetta/test-semantic-release/commit/d452cfcb5fd7b1de9a5028fafb403d96d10071c1))
+
+
+### 🧪 Tests
+
+* Adding missing tests or correcting existing testsdsds ([75cbfec](https://github.com/brunotarghetta/test-semantic-release/commit/75cbfeccfe10b8696b8622a71baf5f4f1f0ac537))
+
 ## [8.9.1](https://github.com/brunotarghetta/test-semantic-release/compare/v8.9.0...v8.9.1) (2022-04-26)
 
 # [8.9.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.8.0...v8.9.0) (2022-04-26)
