@@ -46,7 +46,15 @@
             "release": "patch"
           },
           {
-            "type": "build",
+            "type": "chore",
+            "release": "patch"
+          },
+          {
+            "type": "revert",
+            "release": "patch"
+          },
+          {
+            "type": "style",
             "release": "patch"
           }
         ],
@@ -62,7 +70,22 @@
     [
       "@semantic-release/release-notes-generator",
       {
-        "preset": "angular"
+        "presetConfig": {
+          "types": [
+            {"type":"build", "section": "🦊 CI/CD", "hidden": false}, 
+            {"type":"chore", "section": "Other", "hidden": false},  
+            {"type":"ci", "section": "🦊 CI/CD", "hidden": false},  
+            {"type":"docs", "section": "📔 Docs", "hidden": false},
+            {"type":"feat", "section": "🚀 Features", "hidden": false},
+            {"type":"fix", "section": "🛠 Fixes", "hidden": false},
+            {"type":"perf", "section": "⏩ Performance", "hidden": false},
+            {"type":"refactor", "section": "scissors: Refactor", "hidden": false},
+            {"type":"revert", "section": "👀 Reverts", "hidden": false},
+            {"type":"style", "section": "💈 Style", "hidden": false},
+            {"type":"test", "section": "🧪 Tests", "hidden": false}
+
+          ]
+        }
       }
     ],
     [
@@ -82,6 +105,10 @@
     "@semantic-release/exec",
     {
       "verifyReleaseCmd": "echo ${nextRelease.version} > VERSION.txt"
-    }
+    },
+    ["semantic-release-ado", {
+      "varName": "version",
+      "setOnlyOnRelease": true
+    }]
   ]
 }

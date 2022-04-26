@@ -72,3 +72,5 @@ npx semantic-release --dry-run --no-ci
 
 
 Para las notes: https://hub.docker.com/r/griefed/gitlab-semantic-release
+
+npm install -D semantic-release-ado
