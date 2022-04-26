@@ -70,6 +70,14 @@
     [
       "@semantic-release/release-notes-generator",
       {
+        "preset": "conventionalCommits",
+        "parserOpts": {
+          "noteKeywords": [
+            "BREAKING CHANGE",
+            "BREAKING CHANGES",
+            "BREAKING"
+          ]
+        },
         "presetConfig": {
           "types": [
             {"type":"build", "section": "🦊 CI/CD", "hidden": false}, 
