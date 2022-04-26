@@ -1,3 +1,5 @@
+## [8.9.1](https://github.com/brunotarghetta/test-semantic-release/compare/v8.9.0...v8.9.1) (2022-04-26)
+
 # [8.9.0](https://github.com/brunotarghetta/test-semantic-release/compare/v8.8.0...v8.9.0) (2022-04-26)
 
 
